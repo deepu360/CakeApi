@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CakeApi\\CakeApi\\CakeApi.csproj": {}
+    "C:\\cake\\CakeApi\\CakeApi.csproj": {}
   },
   "projects": {
-    "C:\\CakeApi\\CakeApi\\CakeApi.csproj": {
+    "C:\\cake\\CakeApi\\CakeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CakeApi\\CakeApi\\CakeApi.csproj",
+        "projectUniqueName": "C:\\cake\\CakeApi\\CakeApi.csproj",
         "projectName": "CakeApi",
-        "projectPath": "C:\\CakeApi\\CakeApi\\CakeApi.csproj",
+        "projectPath": "C:\\cake\\CakeApi\\CakeApi.csproj",
         "packagesPath": "C:\\Users\\deepesh.d\\.nuget\\packages\\",
-        "outputPath": "C:\\CakeApi\\CakeApi\\obj\\",
+        "outputPath": "C:\\cake\\CakeApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deepesh.d\\AppData\\Roaming\\NuGet\\NuGet.Config"
